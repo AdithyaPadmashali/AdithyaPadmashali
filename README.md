@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Profile Statistics
+
+<p align="center">
+<a href="https://github.com/AdithyaPadmashali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaPadmashali&show_icons=true&theme=highcontrast&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaPadmashali&layout=compact&theme=highcontrast"/>
+</a>
+</p>
+<p>
+  <img height="20em" src="https://komarev.com/ghpvc/?username=AdithyaPadmashali"/>
+</p>
