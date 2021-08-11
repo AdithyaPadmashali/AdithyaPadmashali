@@ -3,13 +3,13 @@
 ```JSON
 {
 
-  "About_Me" : {
-    "firstName" : "Adithya",
-    "lastName" : "Padmashali",
-    "currentCourse" : "B.Tech - Computer Science"
+  "about_me" : {
+    "first_name" : "Adithya",
+    "last_name" : "Padmashali",
+    "current_course" : "B.Tech - Computer Science"
   },
   
-  "myInterests" : ["Computer Networking", "DevOps", "Network Security", "Web Technologies"]
+  "my_interests" : ["Computer Networking", "DevOps", "Network Security", "Web Technologies"]
   
 }
 ```
