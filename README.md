@@ -1,6 +1,18 @@
 ### Engineer 👋
 
-My name is Adithya P. I'm currently pursuing B.Tech, Computer Science.
+```JSON
+{
+
+  "About_Me" : {
+    "firstName" : "Adithya",
+    "lastName" : "Padmashali",
+    "currentCourse" : "B.Tech - Computer Science"
+  }
+  
+  "myInterests" : ["Computer Networking", "DevOps", "Network Security", "Web Technologies"]
+  
+}
+```
 
 <!--
 **AdithyaPadmashali/AdithyaPadmashali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
