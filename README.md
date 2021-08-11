@@ -1,6 +1,6 @@
 ### Engineer 👋
 
-My name is Adithya P. I'm currently pursuing B.Tech, Computer Science in PES University.
+My name is Adithya P. I'm currently pursuing B.Tech, Computer Science.
 
 <!--
 **AdithyaPadmashali/AdithyaPadmashali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
