@@ -7,7 +7,7 @@
     "firstName" : "Adithya",
     "lastName" : "Padmashali",
     "currentCourse" : "B.Tech - Computer Science"
-  }
+  },
   
   "myInterests" : ["Computer Networking", "DevOps", "Network Security", "Web Technologies"]
   
