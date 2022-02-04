@@ -9,7 +9,7 @@
     "current_course" : "B.Tech - Computer Science"
   },
   
-  "my_interests" : ["Computer Networking", "DevOps", "Network Security", "Web Technologies"]
+  "my_interests" : ["Computer Networking", "DevOps", "Network Security", "Digital Forensics", "Web Technologies"]
   
 }
 ```
